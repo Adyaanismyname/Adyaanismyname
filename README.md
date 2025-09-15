@@ -75,11 +75,11 @@ I'm a passionate **AI/ML Engineer** and **Full Stack Developer** currently pursu
 
 <div align="center">
   
-![Adyaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=adyaan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Adyaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adyaanismyname&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adyaan&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adyaanismyname&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adyaan&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adyaanismyname&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -133,6 +133,6 @@ class AdyaanAhmed:
   
 *"Building intelligent systems that make a difference, one algorithm at a time."* 🤖✨
 
-![Profile Views](https://komarev.com/ghpvc/?username=adyaan&color=blueviolet&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Adyaanismyname&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
